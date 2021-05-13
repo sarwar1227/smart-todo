@@ -9,4 +9,9 @@ This is a Smart-TODO App, built using ReactJS , which ultimatel stores all your 
 - &nbsp; ![alt text](https://github.com/sarwar1227/smart-todo/blob/main/outputs/output_6.png?raw=true)
 - &nbsp; ![alt text](https://github.com/sarwar1227/smart-todo/blob/main/outputs/output_7.png?raw=true)
 - &nbsp; ![alt text](https://github.com/sarwar1227/smart-todo/blob/main/outputs/output_8.png?raw=true)
+- &nbsp; ![alt text](https://github.com/sarwar1227/smart-todo/blob/main/outputs/output_9.png?raw=true)
+- &nbsp; ![alt text](https://github.com/sarwar1227/smart-todo/blob/main/outputs/output_10.png?raw=true)
+- &nbsp; ![alt text](https://github.com/sarwar1227/smart-todo/blob/main/outputs/output_11.png?raw=true)
+- &nbsp; ![alt text](https://github.com/sarwar1227/smart-todo/blob/main/outputs/output_12.png?raw=true)
+- &nbsp; ![alt text](https://github.com/sarwar1227/smart-todo/blob/main/outputs/output_13.png?raw=true)
 
